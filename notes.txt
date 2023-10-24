@@ -1,0 +1,5 @@
+npm init -y
+npm i -D tailwindcss
+update node for next command tro work
+npx tailwindcss init
+npm run build
